@@ -1,13 +1,27 @@
+# numpy
+# scipy
+# Pillow
+# cython
+# matplotlib
+# protobuf==3.20.0
+# scikit-image==0.16.2
+# tensorflow==2.0.0
+# keras==2.3.1
+# opencv-python
+# h5py==2.10.0
+# imgaug
+# IPython[all]
+
 numpy
 scipy
 Pillow
 cython
 matplotlib
-protobuf==3.20.0
-scikit-image==0.16.2
-tensorflow==2.0.0
-keras==2.3.1
+protobuf
+scikit-image
+tensorflow
+keras
 opencv-python
-h5py==2.10.0
+h5py
 imgaug
-IPython[all]
+jupyter
